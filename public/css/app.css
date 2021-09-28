@@ -1,0 +1,39 @@
+i.icon{
+    font-size: 2em;
+}
+
+.ui.grid{
+    padding-top: 6em !important;
+    padding-left: 2em;
+}
+
+.ui.bordered{
+    border: 3px solid rgba(58, 55, 55, 0.596) !important;
+}
+
+.ui.inverted.menu .header.item{
+    margin-left: 1em;
+}
+
+.ui.huge.header {
+    font-size: 3em;
+    margin-bottom: 0.5em;
+}
+
+.content{
+    margin: 1em 0;
+}
+
+.ui.header{
+    margin: 1em  0;
+}
+
+
+.ui.button{
+ margin-top: 2em;
+}
+
+#deleteForm{
+    display: inline;
+    margin-left: 1em;
+}
